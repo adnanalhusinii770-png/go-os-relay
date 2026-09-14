@@ -1,1 +1,16 @@
 
+{
+  "name": "go-os-price-relay",
+  "version": "1.0.0",
+  "description": "GO OS relay server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "express": "^4.18.2",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1"
+  }
+}
