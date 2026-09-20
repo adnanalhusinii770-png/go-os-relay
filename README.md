@@ -1,1 +1,4 @@
 
+# go-os-relay
+
+GO OS Price Relay Server - سيرفر وسيط يجلب أسعار XAU/USD ويبثها عبر WebSocket
